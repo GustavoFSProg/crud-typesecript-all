@@ -1,0 +1,1 @@
+# crud-typesecript-all
